@@ -2,9 +2,9 @@
 Type=Application
 Version=1.0
 Name=Activate Linux
-Comment=a very cool software
+Comment=Meme program that displays an "Activate Windows"-like watermark on the desktop
 Exec=activate-linux
-Icon=icon
+Icon=activate-linux
 GenericName=Activate Linux
 Categories=Utility
 Terminal=false
